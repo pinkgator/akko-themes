@@ -28,7 +28,6 @@ vi (WHATEVER THE PATH IS)/static/styles.json
 ```
 Add the following to it inside the brackets:
 ```
-"vampyr": "/static/themes/theme_vampyr.json",
-"neon-lights": "/static/themes/theme_neonlights.json"
+"vampyr": "/static/themes/akko-themes/theme_vampyr.json",
+"neon-lights": "/static/themes/akko-themes/theme_neonlights.json"
 ```
-And there you have it!
