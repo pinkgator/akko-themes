@@ -1,5 +1,6 @@
 {
   "_pleroma_theme_version": 2,
+  "name": "Vampyr";
   "theme": {
     "themeEngineVersion": 3,
     "shadows": {
