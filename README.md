@@ -1,9 +1,6 @@
 # akko-themes
 A repository for my Akkoma themes.
 
-To download, hit Code > Download Zip and extract the zip once that's done.
-To use them, go to your instance, open Settings > Theme (paintbrush icon on mobile) > Load Theme and select the one you want.
-
 ## how to use
 You can download whichever files you like and upload them under Settings > Theme > Load Preset and then load the file.
 
