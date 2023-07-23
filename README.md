@@ -8,7 +8,6 @@ To use them, go to your instance, open Settings > Theme (paintbrush icon on mobi
 You can download whichever files you like and upload them under Settings > Theme > Load Preset and then load the file.
 
 ## how to upload if you're an admin
-Currently these **do not work** I forgot to add something to the files.
 Assuming you're starting from root, navigate to your static folder. If you're using YunoHost, this will be /home/yunohost.app/akkoma/static
 ```
 cd (WHATEVER THE PATH IS)/static
