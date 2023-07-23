@@ -11,7 +11,7 @@ cd (WHATEVER THE PATH IS)/static
 ```
 Create your themes folder if you haven't already and then enter it.
 ```
-mdkir themes
+mkdir themes
 cd themes
 ```
 Clone this repository into it.
