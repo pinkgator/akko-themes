@@ -4,10 +4,10 @@ A repository for my Akkoma themes.
 To download, hit Code > Download Zip and extract the zip once that's done.
 To use them, go to your instance, open Settings > Theme (paintbrush icon on mobile) > Load Theme and select the one you want.
 
-# how to use
+## how to use
 You can download whichever files you like and upload them under Settings > Theme > Load Preset and then load the file.
 
-# how to upload if you're an admin
+## how to upload if you're an admin
 Currently these **do not work** I forgot to add something to the files.
 Assuming you're starting from root, navigate to your static folder. If you're using YunoHost, this will be /home/yunohost.app/akkoma/static
 ```
