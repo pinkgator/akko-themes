@@ -5,7 +5,7 @@ A repository for my Akkoma themes.
 You can download whichever files you like and upload them under Settings > Theme > Load Preset and then load the file.
 
 ## how to upload if you're an admin
-Assuming you're starting from root, navigate to your static folder. If you're using YunoHost, this will be /home/yunohost.app/akkoma/static
+Navigate to your static folder. If you're using YunoHost, this will be /home/yunohost.app/akkoma/static
 ```
 cd (WHATEVER THE PATH IS)/static
 ```
